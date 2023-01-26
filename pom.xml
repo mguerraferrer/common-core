@@ -6,15 +6,15 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.0.0</version>
+		<version>3.0.2</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>mx.softixx.cis</groupId>
-	<artifactId>common-core</artifactId>
+	<groupId>com.github.mguerraferrer</groupId>
+	<artifactId>softixx-cis-common-core</artifactId>
 	<version>1.0.0</version>
-	<name>common-core</name>
-	<description>CIS - Common Core Project</description>
+	<name>softixx-cis-common-core</name>
+	<description>SoftIXX CIS - Common Core Project</description>
 
 	<properties>
 		<java.version>17</java.version>
