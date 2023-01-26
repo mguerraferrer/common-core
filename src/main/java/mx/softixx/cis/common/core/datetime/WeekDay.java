@@ -1,0 +1,6 @@
+package mx.softixx.cis.common.core.datetime;
+
+public enum WeekDay {
+	LUNES, MARTES, MIERCOLES, MIÉRCOLES, JUEVES, VIERNES, SABADO, SÁBADO, DOMINGO, MONDAY, TUESDAY, WEDNESDAY, THURSDAY,
+	FRIDAY, SATURDAY, SUNDAY, EVERYDAY
+}
